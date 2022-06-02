@@ -6,9 +6,9 @@
   <br/>
   <p>
     <a href="https://discord.gg/h32d3B4YZD"><img src="https://img.shields.io/discord/981246631246700654?color=5865F2&logo=discord&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/github/downloads/termissues/KODO-KLUBAS/total" /></a>
+    <a href="#"><img src="https://img.shields.io/github/search/termissues/KODO-KLUBAS/KODO-KLUBAS?color=%23973eb5&label=Visitors" /></a>
     <a href="https://github.com/termissues/KODO-KLUBAS/issues"><img src="https://img.shields.io/github/issues/termissues/KODO-KLUBAS" /></a>
-    <a href="#"><img src="https://img.shields.io/github/languages/count/termissues/KODO-KLUBAS?color=%23959DA5&label=language" /></a>
+    <a href="#"><img src="https://img.shields.io/github/languages/count/termissues/KODO-KLUBAS" /></a>
   </p>
 </div>
 
