@@ -13,14 +13,14 @@
 </div>
 
 ## Apie
-KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbadyti savo skillus konkuruojant prieš kitus užkietėjusius moksliukus naudojant savo a-21 kartos patikimą procesorių su gera termo pasta bei aušinimu.
+KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbadyti savo skillus konkuruojant prieš kitus užkietėjusius moksliukus, naudojant savo a-21 kartos patikimą procesorių su gera termo pasta bei aušinimu.
 
 **Užduotys yra keliamos tik praėjus laiko terminui, kad būtų užtikrintas sąžiningas užduočių atlikimas.**
 
 - Problemų ieškojimas
 - Pajėgumas
 - Įgūdžių tobulinimas
-- 100% koncentracija
+- 100% susikoncentravimas
 
 ## Dalyvavimas
 
@@ -58,4 +58,4 @@ Kiekvienam programuotojui patinka tvarka, pradedant susikurk atskirą directory 
 
 ## Pull requests
 
-Prieš kuriant naują Issue įsitikinkite, kad apie tokias pačias problemas nebuvo pranešta/siūloma taisyti. Repository yra atviras pasiūlimams ir idėjoms, kitų kalbų kodo siūlimui tom pačiom užduotims. Nežinant, kaip sukurti Pull request apsilankyk - [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) Github docs.
+Prieš kuriant naują Issue įsitikinkite, kad apie tokias pačias problemas nebuvo pranešta/siūloma taisyti. Repository yra atviras pasiūlimams ir idėjoms, kitų kalbų kodo siūlimui - tom pačiom užduotims. Nežinant, kaip sukurti Pull request apsilankyk - [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) Github docs.
