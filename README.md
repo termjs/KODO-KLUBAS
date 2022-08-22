@@ -43,10 +43,10 @@ Kiekvienam programuotojui patinka tvarka, pradedant susikurk atskirą directory 
 
 - Visual Studio Code
 - Sublime Text
-- Codeshare.io
 - Notepad++
 - Brackets
 - Atom
+- Codeshare.io
 
 ## Links
 
