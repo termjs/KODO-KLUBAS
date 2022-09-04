@@ -41,7 +41,7 @@ function theNumber(matrix) {
             r.unshift([0, 0])
             coordsPos.push(r)
         } else {
-            const first = arr[0] // pirma kordinatė
+            const first = arr[0] // pirma koordinatė
             for (let i = 0; i <= r.length; i++) {
                 permutations(arr.slice(1), r.slice(0, i).concat([first]).concat(r.slice(i)))
             }
