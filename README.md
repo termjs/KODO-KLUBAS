@@ -13,7 +13,7 @@
 </div>
 
 ## Apie
-KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbadyti savo skillus konkuruojant prieš kitus užkietėjusius moksliukus, naudojant savo a-21 kartos patikimą procesorių su gera termo pasta bei aušinimu.
+KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbandyti savo skillus konkuruojant prieš kitus užkietėjusius moksliukus, naudojant savo a-21 kartos patikimą procesorių su gera termo pasta bei aušinimu.
 
 **Užduotys yra keliamos tik praėjus laiko terminui, kad būtų užtikrintas sąžiningas užduočių atlikimas.**
 
@@ -26,7 +26,7 @@ KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbadyti savo skill
 
 **Telefonas arba kompiuteris yra privalomi.**
 
-Kiekvienam programuotojui patinka tvarka, pradedant susikurk atskirą directory ir failą.<br/>Lengvam ir greitam kodo rašymui siūlome išbandyti [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) naudojant Visual Studio Code editorių.
+Kiekvienam programuotojui patinka tvarka, pradedant susikurk atskirą directory ir failą.<br/>Lengvam ir greitam kodo rašymui siūlome išbandyti [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets), naudojant Visual Studio Code editorių.
 
 ```sh-session
 ~/dev
@@ -58,4 +58,4 @@ Kiekvienam programuotojui patinka tvarka, pradedant susikurk atskirą directory 
 
 ## Pull requests
 
-Prieš kuriant naują Issue įsitikinkite, kad apie tokias pačias problemas nebuvo pranešta/siūloma taisyti. Repository yra atviras pasiūlimams ir idėjoms, kitų kalbų kodo siūlimui - tom pačiom užduotims. Nežinant, kaip sukurti Pull request apsilankyk - [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) Github docs.
+Prieš kuriant naują Issue įsitikinkite, kad apie tokias pačias problemas nebuvo pranešta/siūloma taisyti. Repository yra atviras pasiūlimams ir idėjoms, kitų kalbų kodo siūlimui. Nežinant, kaip sukurti Pull request, apsilankyk - [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) Github docs.
