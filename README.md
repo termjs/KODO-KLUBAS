@@ -4,15 +4,9 @@
     <img src="./images/kodo klubas.svg" />
   </p>
   <br/>
-  <p>
-    <a href="https://discord.gg/h32d3B4YZD"><img src="https://img.shields.io/discord/981246631246700654?color=5865F2&logo=discord&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/github/search/termissues/KODO-KLUBAS/KODO-KLUBAS?color=%23973eb5&label=Visitors" /></a>
-    <a href="https://github.com/termissues/KODO-KLUBAS/issues"><img src="https://img.shields.io/github/issues/termissues/KODO-KLUBAS" /></a>
-    <a href="#"><img src="https://img.shields.io/github/languages/count/termissues/KODO-KLUBAS" /></a>
-  </p>
 </div>
 
-## Apie
+## Apie klubą
 KODO KLUBAS - tai vieta, kurioje gali drąsiai reikštis ir išbandyti savo skillus konkuruojant prieš kitus užkietėjusius moksliukus, naudojant savo a-21 kartos patikimą procesorių su gera termo pasta bei aušinimu.
 
 **Užduotys yra keliamos tik praėjus laiko terminui, kad būtų užtikrintas sąžiningas užduočių atlikimas.**
